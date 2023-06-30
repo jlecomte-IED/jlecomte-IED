@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
 ![Jeremie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlecomte-IED&count_private=true&hide=stars,prs,issues,contribs&theme=gruvbox_light)
+-->
